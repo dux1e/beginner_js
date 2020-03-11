@@ -32,3 +32,6 @@ P.S. man skal huste i sin CSS at skrive for at det virker
 
 
 Med det er skrevet oppe i funtionen **tjekker** funktionen nu efter om text.style.color er sat til black i stedet for at sætte værdien til black
+
+# Vigtigt
+Dette er for min egen skyld så jeg kan se hvad det er jeg skal gøre hvis jeg skal lave en toggle switch på en side og hvad det er jeg ofte laver fejl med.
