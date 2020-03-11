@@ -1,9 +1,9 @@
-#Denne condition virker som den skal. 
+# Denne condition virker som den skal. 
 
 Hvis jeg har problemer er det nok fordi jeg har glemt at en if condition skal tjekke efter om noget er sandt altså == OG IKKE BARE = f.eks.
 
 
-##Funktion der ikke virker:
+## Funktion der ikke virker:
 	function colorChange() {
 		if(text.style.color = 'black') {
 			text.style.color = 'pink';
@@ -15,7 +15,7 @@ Hvis jeg har problemer er det nok fordi jeg har glemt at en if condition skal tj
 Dette kommer ikke til at vike da den ikke **tjekker** efter om text.style.color er sat til black men derimod sætter værdien til black...
 Man skal derfor gøre som dette
 
-##Funktion der virker
+## Funktion der virker
 	function colorChange() {
 		if(text.style.color == 'black') {
 			text.style.color = 'pink';
